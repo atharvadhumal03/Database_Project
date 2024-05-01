@@ -1,0 +1,9 @@
+Hyde Travel have requested for the following queries: 
+1) Show all customers and their bookings.
+2) Show the components for all trips.
+3) Show all places that customer Colin Robinson will visit.
+4) Show all the customers who have booked trips involving the MS Serenity.
+5) Show all the places that will be visited on 2nd June 2022.
+6) Show all the places that are visited by standard coaches.
+7) Show all the bookings that are for less than 3 passengers.
+8) Show how many components the MS Serenity will be used for in June 2022.

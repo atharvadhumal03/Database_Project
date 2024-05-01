@@ -7,10 +7,10 @@ The relational database has been created using Structured Query Language (SQL) o
 #### Background on Hyde Travel: 
 Hyde Travel is a medium sized travel company based in Southampton, England.
 They have employed you to build a fully working database system to handle their core business which is concerned with the following areas:
-Customer records
-Booking Records for Trips
-Trips and the components of trips
-Vessels
+- Customer records
+- Booking Records for Trips
+- Trips and the components of trips
+- Vessels
 #### Background on how the company organises its work:
 Hyde Travel operates holiday breaks in Europe, travelling from the UK to destinations in France, Germany, Belgium and the Netherlands. Customers make bookings in their own name. They can book places for up to 10 passengers. A particular trip will be made up of several components. Any component, such as a river cruise, could involve a visit to one or more places. A component is usually assigned a vessel (e.g. river ship, train, coach). Some vessels are used on more than one component. Some components use more than one vessel.
 #### Please Note: 
